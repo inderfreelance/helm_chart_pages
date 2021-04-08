@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-kubernetes:
+  - apiVersion: v2
+    appVersion: "1.10"
+    created: "2021-04-09T04:52:07.756366459+05:30"
+    description: A demo application for a Kubernetes cluster.
+    digest: 4998d790c93379c0b8ef47e54f1f4420d04ad1f3b35b3950a4f48a9758d0b07d
+    name: hello-kubernetes
+    type: application
+    urls:
+    - https://inderfreelance.github.io/helm_chart_pages/hello-kubernetes-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-04-09T04:52:07.755975861+05:30"
