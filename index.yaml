@@ -10,7 +10,11 @@ entries:
     kubeVersion: '>= 1.16.0-0'
     name: hello-kubernetes
     type: application
+    sources:
+    - https://github.com/inderfreelance/helm_chart_pages/tree/master/hello-kubernetes-sources/hello-kubernetes
     urls:
     - https://inderfreelance.github.io/helm_chart_pages/hello-kubernetes-1.0.0.tgz
     version: 1.0.0
 generated: "2021-04-09T05:24:12.587606773+05:30"
+
+
